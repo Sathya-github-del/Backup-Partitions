@@ -19,6 +19,7 @@ This Python script allows you to backup specific partitions from your Android de
     sudo python3 backup.py
     ```
 4. Follow the on-screen instructions to choose which partitions you want to backup.
+5. All files will backup to /sdcard/ (Internal storage)
 
 **Note:** Make sure your device is connected properly and recognized by ADB.
 
