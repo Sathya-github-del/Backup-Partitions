@@ -10,6 +10,7 @@ This Python script allows you to backup specific partitions from your Android de
 - Rooted Android device
 - ADB drivers installed
 - USB cable
+- Python installed(Version:- 3+)
 
 ## Usage
 1. Connect your rooted Android device to your computer using a USB cable.
@@ -23,10 +24,7 @@ This Python script allows you to backup specific partitions from your Android de
 
 **Note:** Make sure your device is connected properly and recognized by ADB.
 
-## Contribution
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
-
 ## License
 
-This project is created and owned by @Sathya-github-del. All rights reserved.
+This project is created by @Sathya-github-del.
 
